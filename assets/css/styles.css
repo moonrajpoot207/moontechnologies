@@ -420,6 +420,9 @@ body.dark-theme .active-link{
   display: flex;
   justify-content: center;
 }
+.button-profile{
+  margin-right: 25px;
+}
 
 /*==================== SKILLS ====================*/
 .skills__container{
